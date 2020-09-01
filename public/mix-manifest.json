@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/init.js": "/js/init.js",
+    "/js/materialize.js": "/js/materialize.js",
+    "/js/nouislider.js": "/js/nouislider.js",
+    "/css/materialize.css": "/css/materialize.css",
+    "/css/vue-material.min.css": "/css/vue-material.min.css",
+    "/css/nouislider.css": "/css/nouislider.css"
+}
